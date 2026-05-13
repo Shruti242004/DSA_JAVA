@@ -2,7 +2,7 @@ package Array.ReverseArray;
 
 public class jav {
     public static void main(String[] args) {
-        int[] arr = new int[]{3, 19, 56, 9, 83, 18, 24, 85, 14};
+        int[] arr = new int[]{3, 19, 56, 9, 83, 18, 24, 58, 14};
         int n = arr.length;
         int i = 0;
 
